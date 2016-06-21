@@ -1,0 +1,17 @@
+﻿  digit_count.cpp
+  digit_get.cpp
+  digit_put.cpp
+  digit_switch.cpp
+  scan_functions.c
+  main.c
+  scan_arrowy.c
+  scan_int.c
+  scan_real.c
+  scan_str.c
+  scan_uint.c
+  scan_date.c
+scan_real.obj : error LNK2001: unresolved external symbol _digit_get64
+scan_real.obj : error LNK2001: unresolved external symbol _digit_put64
+scan_date.obj : error LNK2001: unresolved external symbol _digit_switch32
+scan_date.obj : error LNK2001: unresolved external symbol _digit_put32
+D:\Google Drive\Projects\Visual Studio\ARCHIVE\Stock Manager - Copy - Copy\Release\Stock Manager.exe : fatal error LNK1120: 4 unresolved externals
