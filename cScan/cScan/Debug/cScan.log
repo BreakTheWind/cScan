@@ -1,0 +1,14 @@
+﻿  scan_uint.c
+  scan_str.c
+  scan_real.c
+  scan_int.c
+  scan_functions.c
+  scan_date.c
+  scan_arrowy.c
+  digit_switch.c
+  digit_put.c
+  digit_get.c
+  digit_count.c
+  cScan_test.c
+  Generating Code...
+  cScan.vcxproj -> D:\Google Drive\Projects\Visual Studio\cScan\Debug\cScan.exe
